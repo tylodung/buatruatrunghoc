@@ -1,0 +1,16 @@
+siteTitle = 'Bữa Trưa Trung Học'
+siteDescr = 'Student recipes'
+siteDescription = "Tìm hiểu về thực đơn món ăn dành cho học sinh tại trường"
+siteUrl = "http://buatruatrunghoc.com"
+siteBandcampUrl = 'https://buatruatrunghoc.com'
+siteAddress = 'Tổ 03, Khu phố Bà Tri, Phường Tân Hiệp, Thị xã Tân Uyên, Bình Dương'
+siteAddress2 = '0125 722 3268 - Phạm Xuân Tiếp'
+siteSoundcloudUrl = 'https://soundcloud.com/sentimony'
+siteFacebookUrl = 'https://www.facebook.com/phuquoctrasua'
+siteDiscogsUrl = 'https://www.discogs.com/label/82598-Sentimony-Records'
+siteTwitterUrl = 'https://twitter.com/nihon_ne'
+siteGoogleplusUrl = ''
+siteGithubUrl = 'https://github.com/nihonne'
+siteYoutubeUrl = 'https://www.youtube.com/channel/UC2xhVmkOYPKibhJm3f0f3hw'
+
+linkPrefix = '/'
