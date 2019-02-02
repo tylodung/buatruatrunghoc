@@ -1,7 +1,7 @@
 ---
-title: 'Danh mục món ăn - Tới Trà Sữa Phú Quốc Quán bạn sẽ nhận được giá trị tương xứng'
+title: 'Danh mục Món Phụ - Tới Bữa Trưa Trung Học bạn sẽ nhận được giá trị tương xứng'
 layout: Releases
 path: '/releases/'
-meta: Danh mục món ăn Tới Trà Sữa Phú Quốc Quán bạn sẽ nhận được giá trị tương xứng
-keywords: Danh mục món ăn Tới Trà Sữa Phú Quốc Quán bạn sẽ nhận được giá trị tương xứng
+meta: Danh mục món ăn Tới Bữa Trưa Trung Học bạn sẽ nhận được giá trị tương xứng
+keywords: Danh mục món ăn Tới Bữa Trưa Trung Học bạn sẽ nhận được giá trị tương xứng
 ---
