@@ -17,7 +17,7 @@ class Footer extends React.Component {
 	<div className='footer__container-floating'>
 
   <div className='footer__floating-button' data-toggle='tooltip' data-placement='left' data-original-title='Create' onclick='newmail()'>
-    <a href='tel:+84938878827'><p className='footer__plus'>Gọi</p></a>
+    <a href='tel:+84326025217'><p className='footer__plus'>Gọi</p></a>
   </div>
 
 </div>
