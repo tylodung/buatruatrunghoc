@@ -1,22 +1,22 @@
 ---
-title: 'Giới thiệu Bakawash - Thương hiệu máy giặt do Bakadono cung cấp'
+title: 'Giới thiệu Bữa Trưa Trung Học'
 layout: HomePage
 path: '/about/'
-meta: Giới thiệu Bakawash - Thương hiệu máy giặt do Bakadono cung cấp
-keywords: Giới thiệu Bakawash - Thương hiệu máy giặt do Bakadono cung cấp
+meta: Giới thiệu  Bữa Trưa Trung Học
+keywords: Giới thiệu  Bữa Trưa Trung Học
 ---
 
-Bakawash - Thương hiệu máy giặt do Bakadono cung cấp giới thiệu
+ Bữa Trưa Trung Học
 
-**Bakawash - Thương hiệu máy giặt do Bakadono cung cấp** khởi nguồn được chính thức thành lập bởi **Bakadono** vào ngày 25 tháng 11 năm 2017 từ hệ thống kinh doanh cũ nhỏ thành lập từ Facebook [**Thảo Am Tân Uyên**](https://www.facebook.com/thaoamtanuyen).
+** Bữa Trưa Trung Học** khởi nguồn được chính thức thành lập bởi **Bakadono** vào ngày 25 tháng 11 năm 2017 từ hệ thống kinh doanh cũ nhỏ thành lập từ Facebook [**Thảo Am Tân Uyên**](https://www.facebook.com/thaoamtanuyen).
 
-Chuyên về các dòng máy giặt bền bỉ, tốt, sử dụng lâu dài.
+Chuyên về các bữa trưa học đường ở Nhật Bản.
 
-## Thông tin chi tiết Bakawash - Thương hiệu máy giặt do Bakadono cung cấp Quán
+## Thông tin chi tiết  Bữa Trưa Trung Học
 
-Tên gọi: **Bakawash - Thương hiệu máy giặt do Bakadono cung cấp** 
+Tên gọi: ** Bữa Trưa Trung Học** 
 
-Điện thoại liên hệ: [**0125 722 3268**](tel:+841257223268) (Bakadono)
+Điện thoại liên hệ: [**032 602 5217**](tel:+8432 602 5217) (Bakadono)
 Địa chỉ Tổ 03, Khu phố Bà Tri, Phường Tân Hiệp, Thị xã Tân Uyên, Bình Dương
 
 
