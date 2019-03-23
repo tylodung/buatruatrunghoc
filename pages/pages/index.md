@@ -1,9 +1,9 @@
 ---
-title: 'Bữa Trưa Học sinh phát triển thực đơn cho học sinh Việt Nam'
+title: 'Bữa Trưa Học Đường phát triển thực đơn cho học sinh Việt Nam'
 layout: HomePage
 path: '/'
-meta: Bữa Trưa Học sinh phát triển thực đơn cho học sinh Việt Nam
-keywords: Bữa Trưa Học sinh phát triển thực đơn cho học sinh Việt Nam
+meta: Bữa Trưa Học Đường phát triển thực đơn cho học sinh Việt Nam
+keywords: Bữa Trưa Học Đường phát triển thực đơn cho học sinh Việt Nam
 ---
 
 
