@@ -6,7 +6,7 @@ meta: Bakadono how to Payments
 keywords: Bakadono how to Payments
 ---
 
-**Bữa trưa học đường ở Nhật Bản** chấp nhận thanh toán qua 3 hình thức phổ biến hiện nay. Đó hình thức thanh toán thông qua tiền mặt, mua hàng trực tiếp tại cửa hàng của Bakadono, Giao hàng nhận tiền **COD**, và dịch vụ thanh toán trực tuyến qua Internet Banking, SMS Banking của các ngân hàng trong nước, cũng như chấp thuận thanh toán thông qua hình thức quẹt thẻ tại cây ATM.
+**Bữa Ăn Trung Học ở Nhật Bản** chấp nhận thanh toán qua 3 hình thức phổ biến hiện nay. Đó hình thức thanh toán thông qua tiền mặt, mua hàng trực tiếp tại cửa hàng của Bakadono, Giao hàng nhận tiền **COD**, và dịch vụ thanh toán trực tuyến qua Internet Banking, SMS Banking của các ngân hàng trong nước, cũng như chấp thuận thanh toán thông qua hình thức quẹt thẻ tại cây ATM.
 
 ## Thanh toán bằng tiền mặt
 
@@ -26,7 +26,7 @@ Tại Phú Quốc:
 ## Thanh toán trực tuyến
 
 Hình thức thanh toán mà Bakadono có thể đáp ứng với khách hàng tính đến thời điểm hiện tại. "cập nhật vào lúc 3:00AM 14/09/2017"
-Hiện tại, **Bữa trưa học đường ở Nhật Bản** sở hữu 3 loại tài khoản ở các ngân hàng sau:
+Hiện tại, **Bữa Ăn Trung Học ở Nhật Bản** sở hữu 3 loại tài khoản ở các ngân hàng sau:
 ![Bakadono Payment accept](http://cdn.bakadono.com/assets/img/favicons/bakadono/payment/accept_payment.jpg "Bakadono Payment accept")
 
 ### Thứ tự ưu tiên
