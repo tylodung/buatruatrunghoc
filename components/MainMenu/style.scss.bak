@@ -26,7 +26,7 @@
             transition: width .25s ease .15s,
                         left .25s ease .15s,
                         height .25s ease;
-            background: #006600;
+            background: #255161;
         }
 
         &:hover {
