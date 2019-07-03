@@ -3,7 +3,7 @@
 .footer {
   position: relative;
   overflow: hidden;
-  background: #006600;
+  background: #242f3e;
 
   &__wrapper {
     // max-width: 999px;
