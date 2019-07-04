@@ -56,17 +56,7 @@ class Footer extends React.Component {
 
 
          <nav className='footer__versions'>
-	 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- taonehe -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4942215014525796"
-     data-ad-slot="4525737718"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+
 	    <h3>{ config.siteAddress }</h3>
 	    <h3>{ config.siteAddress2 }</h3>
             <a href='/tos/privacy'>Privacy</a>
