@@ -15,6 +15,17 @@ class Footer extends React.Component {
         <div className='footer__wrapper'>
 
 	<div className='footer__container-floating'>
+	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- taonehe -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4942215014525796"
+     data-ad-slot="4525737718"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
   <div className='footer__floating-button' data-toggle='tooltip' data-placement='left' data-original-title='Create' onclick='newmail()'>
     <a href='tel:+84326025217'><p className='footer__plus'>Gọi</p></a>
@@ -31,17 +42,7 @@ class Footer extends React.Component {
 
 
         </div>
-	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- taonehe -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4942215014525796"
-     data-ad-slot="4525737718"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+
 
 	
 	
