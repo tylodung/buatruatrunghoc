@@ -1,16 +1,16 @@
 ---
-title: 'Bữa Ăn Trường Học phát triển thực đơn cho học sinh Việt Nam'
+title: 'Căn tin Trường Học phát triển thực đơn cho học sinh Việt Nam'
 layout: HomePage
 path: '/'
-meta: Bữa Ăn Trường Học phát triển thực đơn cho học sinh Việt Nam
-keywords: Bữa Ăn Trường Học phát triển thực đơn cho học sinh Việt Nam
+meta: Căn tin Trường Học phát triển thực đơn cho học sinh Việt Nam
+keywords: Căn tin Trường Học phát triển thực đơn cho học sinh Việt Nam
 ---
 
 
-# Hơn 100 năm phát triển của Bữa Ăn Trường Học ở Nhật Bản
+# Hơn 100 năm phát triển của Căn tin Trường Học ở Nhật Bản
 
 
-**Lịch sử trăm năm giúp Bữa Ăn Trường Học Nhật Bản hoàn thiện về dinh dưỡng, được công nhận là một phần chính thống của giáo dục.**
+**Lịch sử trăm năm giúp Căn tin Trường Học Nhật Bản hoàn thiện về dinh dưỡng, được công nhận là một phần chính thống của giáo dục.**
 
 Học sinh Nhật Bản nổi tiếng với văn hóa cùng giáo viên ăn trưa tại trường, trái với thói quen mang cơm từ nhà của học sinh nhiều quốc gia. Ngay cả hiệu trưởng cũng cùng ngồi ăn một bữa trưa giống học sinh mỗi ngày. Trẻ được khuyến khích biết ơn thực phẩm và ăn đến miếng cuối cùng, bao gồm cả những món chúng không đặc biệt thích. Văn hóa này được phát triển từ hơn 100 năm trước. 
 
