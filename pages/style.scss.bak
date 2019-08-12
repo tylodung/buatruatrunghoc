@@ -10,7 +10,7 @@ body {
     margin: 0;
     text-align: center;
     background: #001100;
-    // background: #001100 url(./static/img/backgrounds/default.png);
+    // background: #bbb url(./static/img/backgrounds/default.png);
     color: #848c94;
     font: 400 16px/1.4 'Montserrat', Helvetica, Arial, sans-serif;
 }
